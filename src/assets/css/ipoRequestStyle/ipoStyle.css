@@ -1,0 +1,40 @@
+ .label-text-client-FinData {
+    color: #152035B2;
+    font-family: 'Inter', sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    /* line-height: 14.52px; */
+    line-height: 1.5;
+    /* letter-spacing: 0.02em; */
+   
+  }
+  
+  .value-text-client-FinData {
+    color: #000000B2;
+    margin-top: 5px;
+    font-family: 'Inter', sans-serif;
+    font-size: 11px;
+    font-weight: 700;
+    /* line-height: 14.52px; */
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+   
+  }
+   
+  .application-form-header {
+    display: flex;
+    flex-direction: row; /* Flexbox for horizontal alignment */
+    justify-content: center; /* Center align */
+    align-items: center; /* Vertical center align */
+    margin-top: 20px; /* Equivalent to marginTop */
+    border-top: 1px solid #ccc; /* Adds a border at the top */
+    padding-top: 10px; /* Equivalent to paddingVertical */
+    padding-bottom: 10px; /* Equivalent to paddingVertical */
+  }
+  
+  .application-Header-label-text {
+    font-family: 'Inter', sans-serif; /* Ensure the font family is correct */
+    font-size: 14px; /* Font size */
+    font-weight: 600; /* Font weight */
+    color: #000; /* Text color */
+  }
