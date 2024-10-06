@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://jamilRez53.github.io/ServicesApp",
+  "homepage": "https://JamilRez53.github.io/ServicesApp",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
